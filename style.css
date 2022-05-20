@@ -77,3 +77,11 @@ body {
 .banner {
   margin: none;
 }
+
+
+.footer1 {
+  background-color: gray;
+  text-align: center;
+  padding: 6rem;
+  
+}
